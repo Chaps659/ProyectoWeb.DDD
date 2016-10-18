@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Precentacion", "0 - Precentacion", "{70F119CA-4513-447B-8006-2DD8014B3AA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Servicios", "1 - Servicios", "{BF88588D-F36B-4FB6-BFFA-5031591951A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Aplicacion", "2 - Aplicacion", "{56AF1514-5728-47B3-9FB5-23F40130A2FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{F311EB5F-FCB8-444A-AB35-17C33EBC2CB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Data", "4 - Data", "{EB94F848-A15E-44FA-BC6A-3DA0ADB7869A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.DDD.MVC", "WebApplication.DDD.MVC\WebApplication.DDD.MVC.csproj", "{2A77B280-5264-4429-B4BC-92101E776DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAplacation.Servicios", "WebAplacation.Servicios\WebAplacation.Servicios.csproj", "{CE91FB74-22C9-4007-8BF8-DC0B3FA1DB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Servicios", "WebApplication.Servicios\WebApplication.Servicios.csproj", "{2EB1AF4D-7321-4CA3-AB6C-03F7E8C27226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Dominio", "WebApplication.Dominio\WebApplication.Dominio.csproj", "{93C28486-BBB2-45FE-A4DB-F558DB20D2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Data", "WebApplication.Data\WebApplication.Data.csproj", "{555A20F2-9D73-4787-80A0-B9E15A9A7701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A77B280-5264-4429-B4BC-92101E776DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A77B280-5264-4429-B4BC-92101E776DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A77B280-5264-4429-B4BC-92101E776DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A77B280-5264-4429-B4BC-92101E776DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE91FB74-22C9-4007-8BF8-DC0B3FA1DB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE91FB74-22C9-4007-8BF8-DC0B3FA1DB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE91FB74-22C9-4007-8BF8-DC0B3FA1DB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE91FB74-22C9-4007-8BF8-DC0B3FA1DB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB1AF4D-7321-4CA3-AB6C-03F7E8C27226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB1AF4D-7321-4CA3-AB6C-03F7E8C27226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB1AF4D-7321-4CA3-AB6C-03F7E8C27226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB1AF4D-7321-4CA3-AB6C-03F7E8C27226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C28486-BBB2-45FE-A4DB-F558DB20D2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C28486-BBB2-45FE-A4DB-F558DB20D2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C28486-BBB2-45FE-A4DB-F558DB20D2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C28486-BBB2-45FE-A4DB-F558DB20D2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555A20F2-9D73-4787-80A0-B9E15A9A7701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555A20F2-9D73-4787-80A0-B9E15A9A7701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555A20F2-9D73-4787-80A0-B9E15A9A7701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555A20F2-9D73-4787-80A0-B9E15A9A7701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A77B280-5264-4429-B4BC-92101E776DA0} = {70F119CA-4513-447B-8006-2DD8014B3AA9}
+		{CE91FB74-22C9-4007-8BF8-DC0B3FA1DB9C} = {BF88588D-F36B-4FB6-BFFA-5031591951A7}
+		{2EB1AF4D-7321-4CA3-AB6C-03F7E8C27226} = {56AF1514-5728-47B3-9FB5-23F40130A2FF}
+		{93C28486-BBB2-45FE-A4DB-F558DB20D2CD} = {F311EB5F-FCB8-444A-AB35-17C33EBC2CB5}
+		{555A20F2-9D73-4787-80A0-B9E15A9A7701} = {EB94F848-A15E-44FA-BC6A-3DA0ADB7869A}
+	EndGlobalSection
+EndGlobal
