@@ -13,7 +13,7 @@ namespace WebApplication.Data.Contexto
     public class ProyectoContext : DbContext
     {
         public ProyectoContext()
-            :base("ConexionBD")
+            :base("ConexionDB")
         {
 
         }
