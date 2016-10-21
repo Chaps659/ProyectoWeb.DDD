@@ -1,0 +1,5 @@
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebAplacation.Servicios\bin\Debug\WebAplacation.Servicios.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebAplacation.Servicios\bin\Debug\WebAplacation.Servicios.pdb
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebAplacation.Servicios\obj\Debug\WebAplacation.Servicios.csprojResolveAssemblyReference.cache
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebAplacation.Servicios\obj\Debug\WebAplacation.Servicios.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebAplacation.Servicios\obj\Debug\WebAplacation.Servicios.pdb

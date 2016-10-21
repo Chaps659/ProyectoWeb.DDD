@@ -53,10 +53,9 @@
     <Compile Include="EntidadesConfig\AlumnoConfig.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorios\RepositoryBase.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repositorios\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\WebApplication.Dominio\WebApplication.Dominio.csproj">
       <Project>{93c28486-bbb2-45fe-a4db-f558db20d2cd}</Project>

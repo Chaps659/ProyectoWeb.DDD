@@ -1,0 +1,5 @@
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Dominio\bin\Debug\WebApplication.Dominio.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Dominio\bin\Debug\WebApplication.Dominio.pdb
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Dominio\obj\Debug\WebApplication.Dominio.csprojResolveAssemblyReference.cache
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Dominio\obj\Debug\WebApplication.Dominio.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Dominio\obj\Debug\WebApplication.Dominio.pdb

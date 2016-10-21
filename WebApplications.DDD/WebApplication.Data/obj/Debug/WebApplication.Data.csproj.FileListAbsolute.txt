@@ -1,0 +1,12 @@
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\WebApplication.Data.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\WebApplication.Data.pdb
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\obj\Debug\WebApplication.Data.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\obj\Debug\WebApplication.Data.pdb
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\WebApplication.Data.dll.config
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\EntityFramework.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\WebApplication.Dominio.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\WebApplication.Dominio.pdb
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\EntityFramework.xml
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Data\obj\Debug\WebApplication.Data.csprojResolveAssemblyReference.cache

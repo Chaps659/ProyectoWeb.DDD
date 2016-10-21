@@ -1,0 +1,5 @@
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Servicios\bin\Debug\WebApplication.Servicios.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Servicios\bin\Debug\WebApplication.Servicios.pdb
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Servicios\obj\Debug\WebApplication.Servicios.csprojResolveAssemblyReference.cache
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Servicios\obj\Debug\WebApplication.Servicios.dll
+E:\GitHub\ProyectoWeb.DDD\WebApplications.DDD\WebApplication.Servicios\obj\Debug\WebApplication.Servicios.pdb
